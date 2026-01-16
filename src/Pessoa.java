@@ -5,15 +5,13 @@ public class Pessoa {
 	private int matricula;
 	
 	//Treinando o uso de Construtores
-	public Pessoa(String nome) {
+	public Pessoa() {
+		this.matricula = 1;
+	}
+	public Pessoa(String nome, String dataNasc) {
 		System.out.println("Pessoa cadastrada com nome informado!");
 		this.nome = nome;
 		this.matricula = 1;
-	}
-	public Pessoa(String nome, int matricula) {
-		System.out.println("Pessoa cadastrada com nome e matrícula informados!");
-		this.nome = nome;
-		this.matricula = matricula;
 	}
 	public Pessoa(String nome, int matricula, String dataNasc) {
 		System.out.println("Pessoa cadastrada com nome, matrícula e data de nascimento informados!");
