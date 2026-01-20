@@ -38,6 +38,13 @@ O método `toInfoPessoa()` é responsável por realizar essa conversão.
 
 ## ▶️ Execução
 
+Passos
+No Terminal:
+```bash
+git clone https://github.com/MiguelO1iveira/treinando-uso-de-classe-e-records
+cd permissoes-bitwise-java
+```
+
 Compile os arquivos:
 ```bash
 javac src/*.java
