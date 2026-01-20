@@ -41,7 +41,7 @@ O método `toInfoPessoa()` é responsável por realizar essa conversão.
 Passos
 No Terminal:
 ```bash
-git clone https://github.com/MiguelO1iveira/treinando-uso-de-classe-e-records
+git clone https://github.com/MiguelO1iveira/treinando-uso-de-classe-e-records.git
 cd permissoes-bitwise-java
 ```
 
